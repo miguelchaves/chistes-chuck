@@ -1,10 +1,10 @@
 # Actividad Chuck Norris
 
 ## _Intrucciones_
-Tras descargar el repositorio, todos los ejercicios se pueden ejecutar directamente en el navegador. Salvo el de Node y el de WebComponentes, que por alguna razón no hemos logrado hacerlo funcionar.
+Tras descargar el repositorio, todos los ejercicios se pueden ejecutar directamente en el navegador. Salvo el de Node y el de WebComponentes, que requiere un servidor local.
 
 ### Ejercicio de WebComponents
-El profesor comentaba que debe servirse en un servidor local para que funcione (a mí no me ha funcionado). Para ello recomienda usar http-server.
+Debe servirse en un servidor local para que funcione. Para ello se recomienda usar http-server.
 
 Instala `http-server` globalmente:
 ```sh

@@ -18,9 +18,9 @@ http-server
 Te aparecerá una URL local, algo como http://192.168.1.134:8080/. Puedes abrirla directamente y ahí verás los ficheros.
 
 ### Ejercicio de Node
-Abre el directorio chuckNode en un terminal:
+Abre el directorio node-chuck en un terminal:
 ```sh
-cd ./chuckNode
+cd ./node-chuck
 ```
 
 Instala las dependencias:
@@ -30,5 +30,5 @@ npm i
 
 Y ejecuta el script con node:
 ```sh
-node chuckNodeFetch.js;   
+node .   
 ```

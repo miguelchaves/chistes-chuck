@@ -1,0 +1,11 @@
+{
+  "name": "chuck-norris-joke",
+  "displayName": "Chuck Norris Joke",
+  "description": "Print a joke about Chuck Norris",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "node-fetch": "^3.1.0"
+  }
+}
